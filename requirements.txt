@@ -1,7 +1,7 @@
 streamlit==1.29.0
-langchain==0.1.144
-langchain-community==0.0.197
-faiss-cpu==1.7.4
-sentence-transformers==2.2.2
-transformers==4.35.0
-torch==2.2.0
+langchain>=0.0.331
+langchain-community
+faiss-cpu
+sentence-transformers
+transformers
+torch
