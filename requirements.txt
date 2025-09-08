@@ -1,7 +1,8 @@
 streamlit==1.29.0
 langchain==0.3.27
 rich==13.9.4
-transformers==4.30.2
-sentence-transformers==2.2.2
-torch>=2.0.1
-faiss-cpu==1.7.4
+markdown-it-py==4.0.0
+mdurl==0.1.2
+pygments==2.19.2
+openai>=0.27.0
+
