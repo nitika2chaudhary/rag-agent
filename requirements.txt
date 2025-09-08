@@ -1,7 +1,14 @@
+# Streamlit
 streamlit==1.29.0
-langchain>=0.0.331
-langchain-community
-faiss-cpu
-sentence-transformers
-transformers
-torch
+
+# LangChain (latest stable compatible version)
+langchain==0.3.27
+
+# Other dependencies from your logs
+rich==14.1.0
+markdown-it-py==4.0.0
+mdurl==0.1.2
+pygments==2.19.2
+
+# Optional: OpenAI if your app uses it
+openai>=0.27.0
